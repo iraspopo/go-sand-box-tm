@@ -1,0 +1,3 @@
+module github.com/iraspopo/go-sand-box-tm/exercise_level_4
+
+go 1.14
